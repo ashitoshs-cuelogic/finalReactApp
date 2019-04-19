@@ -8,5 +8,6 @@ const config = {
   storageBucket: "my-first-react-app-c0069.appspot.com",
   messagingSenderId: "21769890659"
 };
+
 const fire = firebase.initializeApp(config);
 export default fire;
