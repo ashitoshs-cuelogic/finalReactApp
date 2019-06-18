@@ -72,7 +72,7 @@ class App extends Component {
               style={{ width: "100px", height: "100px", float: "left" }}
             />
             <br />
-            <h2 style={{ display: "inline" }}>My App </h2>
+            <h2 style={{ display: "inline" }}>My First App </h2>
           </div>
           <br />
           <br />
