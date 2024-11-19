@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase": "^5.9.4",
+    "firebase": "^10.9.0",
     "html-react-parser": "^0.7.0",
     "jquery": "^3.4.0",
     "lodash": "^4.17.11",
